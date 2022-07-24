@@ -1,5 +1,0 @@
-BotAmino
-gtts
-wikipedia
-urllib3
-praw
